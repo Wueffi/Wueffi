@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wafflr450
+- 👋 Hi, I’m @Wueffi
 - 👀 I’m interested in Computers 
 - 🌱 I’m currently learning C#
 - 📫 How to reach me @wueffi on Discord
