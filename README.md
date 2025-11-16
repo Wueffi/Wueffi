@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wueffi
 - 👀 I’m interested in Computers 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning React (and React Native)
 - 📫 How to reach me @wueffi on Discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 🧇
